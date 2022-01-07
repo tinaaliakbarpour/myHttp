@@ -1,0 +1,4 @@
+# config.yml
+
+myHttp:
+  timeout: 30s
