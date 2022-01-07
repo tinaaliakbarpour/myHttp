@@ -11,7 +11,7 @@ make test
 ```
 you can build the project by:
 ```
-build myhttp
+make build
 ```
 you can install dependencies by :
 ```
